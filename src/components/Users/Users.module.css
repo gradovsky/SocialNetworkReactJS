@@ -1,0 +1,16 @@
+
+.usersTable {
+    column-count: 2;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-width: 100px;
+
+}
+
+
+.userPhoto img {
+    width: 70px;
+    height: 70px;
+    border-radius: 90px;
+}
+

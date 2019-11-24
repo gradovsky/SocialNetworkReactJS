@@ -1,0 +1,20 @@
+.header {
+    grid-area: header;
+    background: rgba(83, 92, 104,.3);
+    border-radius: 10px;
+    z-index: 10;
+}
+
+.logOut {
+    float: right;
+    margin: 15px;
+}
+
+.userLogined {
+    float: left;
+    margin: 15px;
+}
+
+
+
+

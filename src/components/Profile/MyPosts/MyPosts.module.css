@@ -1,0 +1,27 @@
+.postsBlock {
+    margin: 20px;
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 20px;
+
+}
+.form {
+    border-radius: 10px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    opacity: 0.5;
+    outline: none;
+
+}
+.postBtn {
+    margin: 0 auto;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    background-color: #1e272e;
+    padding: 5px;
+
+}

@@ -1,0 +1,43 @@
+.dialogsItems {
+    padding: 10px;
+    color: white;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.messages .message {
+    color: brown;
+    font-weight: bold;
+}
+
+
+.dialog a.activeLink {
+    color: black;
+    font-weight: bold;
+}
+
+.dialog a {
+    color: white;
+    text-decoration: none;
+}
+
+.form {
+    border-radius: 10px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    opacity: 0.5;
+    outline: none;
+
+}
+
+.sendBtn {
+    margin: 0 auto;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    background-color: #1e272e;
+    padding: 5px;
+}

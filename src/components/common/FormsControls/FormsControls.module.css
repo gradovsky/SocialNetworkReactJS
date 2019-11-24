@@ -1,0 +1,33 @@
+
+.formControl.error input,
+.formControl.error textarea {
+    border: solid red 2px;
+}
+
+.formControl.error span {
+    color: deeppink;
+}
+
+.formSummeryError {
+    border: solid red 2px;
+    padding: 5px;
+    color: blue;
+}
+
+.input {
+    width: 50%;
+    border-radius: 20px;
+    outline: none;
+    text-align: center;
+    opacity: 0.7;
+    padding: 2px;
+}
+
+.textArea {
+    width: 50%;
+    text-align: center;
+    border-radius: 20px;
+    outline: none;
+    padding: 5px;
+    opacity: 0.7;
+}
