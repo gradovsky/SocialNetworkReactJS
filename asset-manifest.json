@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gradovsky/SocialNetworkReactJS/static/css/main.64b9fb17.chunk.css",
+    "main.js": "/gradovsky/SocialNetworkReactJS/static/js/main.11d31208.chunk.js",
+    "main.js.map": "/gradovsky/SocialNetworkReactJS/static/js/main.11d31208.chunk.js.map",
+    "runtime-main.js": "/gradovsky/SocialNetworkReactJS/static/js/runtime-main.056d6de3.js",
+    "runtime-main.js.map": "/gradovsky/SocialNetworkReactJS/static/js/runtime-main.056d6de3.js.map",
+    "static/css/2.0624914a.chunk.css": "/gradovsky/SocialNetworkReactJS/static/css/2.0624914a.chunk.css",
+    "static/js/2.c4a70939.chunk.js": "/gradovsky/SocialNetworkReactJS/static/js/2.c4a70939.chunk.js",
+    "static/js/2.c4a70939.chunk.js.map": "/gradovsky/SocialNetworkReactJS/static/js/2.c4a70939.chunk.js.map",
+    "static/css/3.dba38c95.chunk.css": "/gradovsky/SocialNetworkReactJS/static/css/3.dba38c95.chunk.css",
+    "static/js/3.82933a34.chunk.js": "/gradovsky/SocialNetworkReactJS/static/js/3.82933a34.chunk.js",
+    "static/js/3.82933a34.chunk.js.map": "/gradovsky/SocialNetworkReactJS/static/js/3.82933a34.chunk.js.map",
+    "static/css/4.725f6f68.chunk.css": "/gradovsky/SocialNetworkReactJS/static/css/4.725f6f68.chunk.css",
+    "static/js/4.b314e0f4.chunk.js": "/gradovsky/SocialNetworkReactJS/static/js/4.b314e0f4.chunk.js",
+    "static/js/4.b314e0f4.chunk.js.map": "/gradovsky/SocialNetworkReactJS/static/js/4.b314e0f4.chunk.js.map",
+    "index.html": "/gradovsky/SocialNetworkReactJS/index.html",
+    "precache-manifest.51c44a21c082654f46d9136c9f290039.js": "/gradovsky/SocialNetworkReactJS/precache-manifest.51c44a21c082654f46d9136c9f290039.js",
+    "service-worker.js": "/gradovsky/SocialNetworkReactJS/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/gradovsky/SocialNetworkReactJS/static/css/2.0624914a.chunk.css.map",
+    "static/css/3.dba38c95.chunk.css.map": "/gradovsky/SocialNetworkReactJS/static/css/3.dba38c95.chunk.css.map",
+    "static/css/4.725f6f68.chunk.css.map": "/gradovsky/SocialNetworkReactJS/static/css/4.725f6f68.chunk.css.map",
+    "static/css/main.64b9fb17.chunk.css.map": "/gradovsky/SocialNetworkReactJS/static/css/main.64b9fb17.chunk.css.map",
+    "static/media/index.css": "/gradovsky/SocialNetworkReactJS/static/media/coolBackground.4d6a5205.png",
+    "static/media/editProfileIco.png": "/gradovsky/SocialNetworkReactJS/static/media/editProfileIco.428fbbfc.png",
+    "static/media/photoIco.png": "/gradovsky/SocialNetworkReactJS/static/media/photoIco.10b598ca.png",
+    "static/media/saveProfileIco.png": "/gradovsky/SocialNetworkReactJS/static/media/saveProfileIco.59f3d3af.png",
+    "static/media/userPhotoIco.png": "/gradovsky/SocialNetworkReactJS/static/media/userPhotoIco.42b9115f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.056d6de3.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.c4a70939.chunk.js",
+    "static/css/main.64b9fb17.chunk.css",
+    "static/js/main.11d31208.chunk.js"
+  ]
+}
