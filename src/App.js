@@ -19,9 +19,6 @@ class App extends Component {
     }
 
     render() {
-        if (!this.props.initialized) {
-            return <ParticleAnimation/>
-        }
         return (
             <main className='appPage'>
                 <HeaderContainer/>

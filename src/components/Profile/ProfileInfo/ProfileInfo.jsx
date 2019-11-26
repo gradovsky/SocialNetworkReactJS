@@ -38,9 +38,10 @@ const ProfileInfo = ({profile, status, updateUserStatus, isOwner, savePhoto, sav
             </label>}
             <div className={s.userPhotoBlock}>
                 <img alt='' src={profile.photos.large || UserAva}/>
-                {isOwner &&
-                <ProfileStatusWithHooks className={s.status} status={status} updateUserStatus={updateUserStatus}/>
-                }
+
+                 <ProfileStatusWithHooks isOwner={isOwner} className={s.status} status={status} updateUserStatus={updateUserStatus}/>
+
+
             </div>
             <div className={s.profileInfo}>
                 {editMode
