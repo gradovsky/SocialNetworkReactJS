@@ -6,6 +6,6 @@
 
 + For sign in use:
    - email: free@samuraijs.com
-   - Password: free
+   - password: free
 
 
