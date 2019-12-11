@@ -2,10 +2,167 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03150f3c-3e59-4d07-8c51-194988b404dc" name="Default Changelist" comment="">
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-1476175970-3735181778-3819536393-1000/$R3XB2Y0/node-releases/.idea/node-releases.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-1476175970-3735181778-3819536393-1000/$R4QREQG.idea/utility_payments_1.0.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-1476175970-3735181778-3819536393-1000/$RKFNW6N.idea/UtilityPayments_1.0.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/.idea/PROJECTS.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/Bot-node-js/.idea/Bot-node-js.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/Chat/.idea/Chat.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/Chat/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/Chat/node_modules/express-handlebars/.idea/express-handlebars.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/ESP8266nodeJS/.idea/ESP8266nodeJS.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/Math3game/.idea/Math3game.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/TamplateHBS/.idea/OktenWebUniwersity.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/html-markup/.idea/html-markup.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/react/.idea/react.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/socialNode/.idea/socialNode.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/temp/.idea/socialNode.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="D:/PROJECTS/test/node_modules/express-handlebars/.idea/express-handlebars.iml" afterDir="false" />
+      <change afterPath="D:/Program Files/nodejs/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="D:/ReactJS-Redux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.idea/utility_payments_1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/API/ApiService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/AddEnergyValues/AddEnergyValuesContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/AddEnergyValues/AddUser.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/AppRouter/Router.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/EditEnergy/EditEnergy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/Example/Example.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/Example/ExampleContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/redux/add-energy-values-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/redux/example-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/redux/redux-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utility_payments_1.0/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+      <change afterPath="D:/node-v10.16.3/deps/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="D:/node_modules/install/.travis.yml" afterDir="false" />
+      <change afterPath="D:/node_modules/install/LICENSE" afterDir="false" />
+      <change afterPath="D:/node_modules/install/README.md" afterDir="false" />
+      <change afterPath="D:/node_modules/install/install.js" afterDir="false" />
+      <change afterPath="D:/node_modules/install/install.min.js" afterDir="false" />
+      <change afterPath="D:/node_modules/install/package.json" afterDir="false" />
+      <change afterPath="D:/node_modules/install/scripts/docs.sh" afterDir="false" />
+      <change afterPath="D:/node_modules/install/scripts/prepublish.sh" afterDir="false" />
+      <change afterPath="D:/package-lock.json" afterDir="false" />
+      <change afterPath="D:/trash/2aaaaaaaa/.idea/2aaaaaaaa.iml" afterDir="false" />
+      <change afterPath="D:/trash/2aaaaaaaa/node_modules/node-releases/.idea/node-releases.iml" afterDir="false" />
+      <change afterPath="D:/trash/SocialReact/.idea/SocialReact.iml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/.gitignore" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/README.md" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/db.json" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/package-lock.json" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/package.json" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/public/favicon.ico" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/public/index.html" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/public/manifest.json" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/App.css" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/App.js" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/App.test.js" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/component/Navbar.jsx" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/component/RouterComponent.jsx" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/component/user/AddUserComponent.jsx" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/component/user/EditUserComponent.jsx" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/component/user/ListUserComponent.jsx" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/index.css" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/index.js" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/logo.svg" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/service/ApiService.js" afterDir="false" />
+      <change afterPath="D:/untitled/react-js-material-master/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/.gitignore" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/.idea/utility_payments_1.0.iml" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/README.md" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/db.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@babel/parser/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@babel/parser/typings/babel-parser.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@babel/types/lib/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@babel/types/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__core/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__core/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__generator/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__generator/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__template/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__template/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__traverse/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/babel__traverse/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/eslint-visitor-keys/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/eslint-visitor-keys/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/istanbul-lib-coverage/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/istanbul-lib-coverage/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/istanbul-lib-report/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/istanbul-lib-report/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/istanbul-reports/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/istanbul-reports/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/json-schema/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/json-schema/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/q/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/q/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/stack-utils/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/stack-utils/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/yargs-parser/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/yargs-parser/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/yargs/index.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/yargs/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/node_modules/@types/yargs/yargs.d.ts" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/package-lock.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/package.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/public/favicon.ico" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/public/index.html" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/public/logo192.png" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/public/logo512.png" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/public/manifest.json" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/public/robots.txt" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/App.css" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/App.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/App.test.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/AddEnergy/AddEnergy.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/AddEnergy/AddEnergyContainer.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/ApiService/ApiService.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/AppRouter/AppRouter.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/EditEnergy/EditEnergy.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/ListEnergy/ListEnergy.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/ListEnergy/ListEnergyContainer.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/Components/NavBar/NavBar.jsx" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/index.css" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/index.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/logo.svg" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/redux/add-energy-reducer.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/redux/redux-store.js" afterDir="false" />
+      <change afterPath="D:/utility_payments_1.0/src/serviceWorker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +226,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Адмін\AppData\Roaming\Subversion</configuration>
   </component>
@@ -96,7 +281,24 @@
       <workItem from="1574440778954" duration="3666000" />
       <workItem from="1574453839377" duration="4177000" />
       <workItem from="1574593834756" duration="7716000" />
-      <workItem from="1574768026171" duration="2770000" />
+      <workItem from="1574768026171" duration="8602000" />
+      <workItem from="1574791202190" duration="24000" />
+      <workItem from="1574791505298" duration="286000" />
+      <workItem from="1574891801474" duration="4874000" />
+      <workItem from="1574950126759" duration="7050000" />
+      <workItem from="1574964031541" duration="14857000" />
+      <workItem from="1575125836975" duration="1450000" />
+      <workItem from="1575130426959" duration="2657000" />
+      <workItem from="1575284517361" duration="16994000" />
+      <workItem from="1575538041509" duration="377000" />
+      <workItem from="1575576927762" duration="671000" />
+      <workItem from="1575773371352" duration="305000" />
+      <workItem from="1575910622263" duration="934000" />
+      <workItem from="1575912418314" duration="26000" />
+      <workItem from="1575915378188" duration="644000" />
+      <workItem from="1575917271586" duration="556000" />
+      <workItem from="1575922950340" duration="880000" />
+      <workItem from="1576058285981" duration="788000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import HeaderContainer from "./components/Header/HeaderContainer";
-import {BrowserRouter, withRouter} from "react-router-dom";
+import {BrowserRouter, HashRouter, withRouter} from "react-router-dom";
 import {connect, Provider} from "react-redux";
 import {compose} from "redux";
 import {initializeApp} from "./redux/app-reducer";
@@ -31,19 +31,20 @@ class App extends Component {
     }
 }
 
-const mapStateToProps = (state) => ({
-    initialized: state.app.initialized
-});
+    const mapStateToProps = (state) => ({
+        initialized: state.app.initialized
+    });
 
 const AppContainer = compose(withRouter, connect(mapStateToProps, {initializeApp}))(App);
 
 const SocialJSApp = (props) => {
+    console.log (store);
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Provider store={store}>
-                <AppContainer/>
+                    <AppContainer/>
             </Provider>
-        </BrowserRouter>
+        </HashRouter>
     )
 };
 
